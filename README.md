@@ -1,7 +1,7 @@
 # Reel-Music-Finder
 Identify songs from Instagram reels, YouTube shorts, and TikToks.
 
-#Usage
+# Usage
 1. Clone the repository
 ```bash
 git clone https://github.com/MalithaBandara/Reel-Music-Finder.git
