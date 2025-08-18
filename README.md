@@ -3,7 +3,7 @@ Identify songs from Instagram reels, YouTube shorts, and TikToks.
 <br><br>
 Check out the Telegram Bot made with this script:- [@reelmusicfinderbot](https://t.me/reelmusicfinderbot)
 <br>
-![telegram-bot](img/ss.png)
+![telegram-bot](img/ss.jpg)
 
 # Usage
 1. Clone the repository
